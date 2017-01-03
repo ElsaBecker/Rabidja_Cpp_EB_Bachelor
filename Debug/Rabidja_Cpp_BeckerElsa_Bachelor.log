@@ -1,0 +1,341 @@
+﻿  player.cpp
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.h(74): error C2061: erreur de syntaxe : identificateur 'GameObject'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\menu.h(11): error C3646: 'hubObject' : spécificateur de substitution inconnu
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\menu.h(11): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  menu.cpp
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.h(8): error C2504: 'init' : classe de base non définie
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.h(74): error C2061: erreur de syntaxe : identificateur 'GameObject'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\hub.h(13): error C2504: 'init' : classe de base non définie
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\hub.h(19): error C3646: 'initObject' : spécificateur de substitution inconnu
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\hub.h(19): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\hub.h(20): error C3646: 'menuObject' : spécificateur de substitution inconnu
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\hub.h(20): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\hub.h(32): error C3646: 'getInit' : spécificateur de substitution inconnu
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\hub.h(32): error C2059: erreur de syntaxe : '('
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\hub.h(32): error C2238: jetons inattendus avant ';'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\hub.h(33): error C3646: 'getMenu' : spécificateur de substitution inconnu
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\hub.h(33): error C2059: erreur de syntaxe : '('
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\hub.h(33): error C2238: jetons inattendus avant ';'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\menu.cpp(32): error C2039: 'getInit' : n'est pas membre de 'Hub'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\hub.h(11): note: voir la déclaration de 'Hub'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\menu.cpp(32): error C2228: la partie gauche de '.loadImage' doit avoir un class/struct/union
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\menu.cpp(71): error C3861: 'getLevel' : identificateur introuvable
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\menu.cpp(72): error C3861: 'SetValeurDuNiveau' : identificateur introuvable
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\menu.cpp(74): error C3861: 'getLevel' : identificateur introuvable
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\menu.cpp(74): error C3861: 'SetValeurDuNiveau' : identificateur introuvable
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\menu.cpp(82): error C3861: 'getLevel' : identificateur introuvable
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\menu.cpp(83): error C3861: 'SetValeurDuNiveau' : identificateur introuvable
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\menu.cpp(85): error C3861: 'getLevel' : identificateur introuvable
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\menu.cpp(85): error C3861: 'SetValeurDuNiveau' : identificateur introuvable
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\menu.cpp(97): error C3861: 'resetCheckpoint' : identificateur introuvable
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\menu.cpp(98): error C3861: 'initializePlayer' : identificateur introuvable
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\menu.cpp(99): error C3861: 'changeLevel' : identificateur introuvable
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\menu.cpp(101): error C3861: 'setNombreDeVies' : identificateur introuvable
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\menu.cpp(102): error C3861: 'setNombreDetoiles' : identificateur introuvable
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\menu.cpp(163): error C2039: 'getInit' : n'est pas membre de 'Hub'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\hub.h(11): note: voir la déclaration de 'Hub'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\menu.cpp(163): error C2228: la partie gauche de '.drawImage' doit avoir un class/struct/union
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\menu.cpp(169): error C3861: 'getLevel' : identificateur introuvable
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\menu.cpp(171): error C2039: 'getInit' : n'est pas membre de 'Hub'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\hub.h(11): note: voir la déclaration de 'Hub'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\menu.cpp(171): error C2228: la partie gauche de '.drawString' doit avoir un class/struct/union
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\menu.cpp(172): error C2039: 'getInit' : n'est pas membre de 'Hub'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\hub.h(11): note: voir la déclaration de 'Hub'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\menu.cpp(172): error C2228: la partie gauche de '.drawString' doit avoir un class/struct/union
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\menu.cpp(179): error C2039: 'getInit' : n'est pas membre de 'Hub'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\hub.h(11): note: voir la déclaration de 'Hub'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\menu.cpp(179): error C2228: la partie gauche de '.drawString' doit avoir un class/struct/union
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\menu.cpp(180): error C2039: 'getInit' : n'est pas membre de 'Hub'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\hub.h(11): note: voir la déclaration de 'Hub'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\menu.cpp(180): error C2228: la partie gauche de '.drawString' doit avoir un class/struct/union
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\menu.cpp(187): error C3861: 'getLevel' : identificateur introuvable
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\menu.cpp(189): error C2039: 'getInit' : n'est pas membre de 'Hub'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\hub.h(11): note: voir la déclaration de 'Hub'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\menu.cpp(189): error C2228: la partie gauche de '.drawString' doit avoir un class/struct/union
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\menu.cpp(190): error C2039: 'getInit' : n'est pas membre de 'Hub'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\hub.h(11): note: voir la déclaration de 'Hub'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\menu.cpp(190): error C2228: la partie gauche de '.drawString' doit avoir un class/struct/union
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\menu.cpp(197): error C2039: 'getInit' : n'est pas membre de 'Hub'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\hub.h(11): note: voir la déclaration de 'Hub'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\menu.cpp(197): error C2228: la partie gauche de '.drawString' doit avoir un class/struct/union
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\menu.cpp(198): error C2039: 'getInit' : n'est pas membre de 'Hub'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\hub.h(11): note: voir la déclaration de 'Hub'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\menu.cpp(198): error C2228: la partie gauche de '.drawString' doit avoir un class/struct/union
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\menu.cpp(209): error C2039: 'getInit' : n'est pas membre de 'Hub'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\hub.h(11): note: voir la déclaration de 'Hub'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\menu.cpp(209): error C2228: la partie gauche de '.drawString' doit avoir un class/struct/union
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\menu.cpp(210): error C2039: 'getInit' : n'est pas membre de 'Hub'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\hub.h(11): note: voir la déclaration de 'Hub'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\menu.cpp(210): error C2228: la partie gauche de '.drawString' doit avoir un class/struct/union
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\menu.cpp(219): error C2039: 'getInit' : n'est pas membre de 'Hub'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\hub.h(11): note: voir la déclaration de 'Hub'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\menu.cpp(219): error C2228: la partie gauche de '.drawString' doit avoir un class/struct/union
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\menu.cpp(220): error C2039: 'getInit' : n'est pas membre de 'Hub'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\hub.h(11): note: voir la déclaration de 'Hub'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\menu.cpp(220): error C2228: la partie gauche de '.drawString' doit avoir un class/struct/union
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\menu.cpp(227): error C2039: 'getInit' : n'est pas membre de 'Hub'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\hub.h(11): note: voir la déclaration de 'Hub'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\menu.cpp(227): error C2228: la partie gauche de '.drawString' doit avoir un class/struct/union
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\menu.cpp(228): error C2039: 'getInit' : n'est pas membre de 'Hub'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\hub.h(11): note: voir la déclaration de 'Hub'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\menu.cpp(228): error C2228: la partie gauche de '.drawString' doit avoir un class/struct/union
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\menu.cpp(237): error C2039: 'getInit' : n'est pas membre de 'Hub'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\hub.h(11): note: voir la déclaration de 'Hub'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\menu.cpp(237): error C2228: la partie gauche de '.drawString' doit avoir un class/struct/union
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\menu.cpp(238): error C2039: 'getInit' : n'est pas membre de 'Hub'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\hub.h(11): note: voir la déclaration de 'Hub'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\menu.cpp(238): error C2228: la partie gauche de '.drawString' doit avoir un class/struct/union
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\menu.cpp(245): error C2039: 'getInit' : n'est pas membre de 'Hub'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\hub.h(11): note: voir la déclaration de 'Hub'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\menu.cpp(245): error C2228: la partie gauche de '.drawString' doit avoir un class/struct/union
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\menu.cpp(246): error C2039: 'getInit' : n'est pas membre de 'Hub'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\hub.h(11): note: voir la déclaration de 'Hub'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\menu.cpp(246): error C2228: la partie gauche de '.drawString' doit avoir un class/struct/union
+  Map.cpp
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\menu.h(11): error C3646: 'hubObject' : spécificateur de substitution inconnu
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\menu.h(11): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\hub.h(13): error C2504: 'init' : classe de base non définie
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\hub.h(16): error C3646: 'map' : spécificateur de substitution inconnu
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\hub.h(16): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\hub.h(19): error C3646: 'initObject' : spécificateur de substitution inconnu
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\hub.h(19): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\hub.h(29): error C3646: 'getMap' : spécificateur de substitution inconnu
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\hub.h(29): error C2059: erreur de syntaxe : '('
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\hub.h(29): error C2238: jetons inattendus avant ';'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\hub.h(32): error C3646: 'getInit' : spécificateur de substitution inconnu
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\hub.h(32): error C2059: erreur de syntaxe : '('
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\hub.h(32): error C2238: jetons inattendus avant ';'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(244): error C3861: 'initPlateforme' : identificateur introuvable
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(297): error C3861: 'initPlateforme' : identificateur introuvable
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(348): error C3861: 'initPlateforme' : identificateur introuvable
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(384): error C3861: 'getLevel' : identificateur introuvable
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(433): error C2248: 'GameObject::onGround' : impossible d'accéder à private membre déclaré(e) dans la classe 'GameObject'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\gameobject.h(33): note: voir la déclaration de 'GameObject::onGround'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\gameobject.h(5): note: voir la déclaration de 'GameObject'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(446): error C2248: 'GameObject::h' : impossible d'accéder à private membre déclaré(e) dans la classe 'GameObject'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\gameobject.h(15): note: voir la déclaration de 'GameObject::h'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\gameobject.h(5): note: voir la déclaration de 'GameObject'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(449): error C2248: 'GameObject::h' : impossible d'accéder à private membre déclaré(e) dans la classe 'GameObject'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\gameobject.h(15): note: voir la déclaration de 'GameObject::h'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\gameobject.h(5): note: voir la déclaration de 'GameObject'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(458): error C2248: 'GameObject::x' : impossible d'accéder à private membre déclaré(e) dans la classe 'GameObject'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\gameobject.h(12): note: voir la déclaration de 'GameObject::x'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\gameobject.h(5): note: voir la déclaration de 'GameObject'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(458): error C2248: 'GameObject::dirX' : impossible d'accéder à private membre déclaré(e) dans la classe 'GameObject'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\gameobject.h(36): note: voir la déclaration de 'GameObject::dirX'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\gameobject.h(5): note: voir la déclaration de 'GameObject'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(458): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(459): error C2248: 'GameObject::x' : impossible d'accéder à private membre déclaré(e) dans la classe 'GameObject'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\gameobject.h(12): note: voir la déclaration de 'GameObject::x'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\gameobject.h(5): note: voir la déclaration de 'GameObject'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(459): error C2248: 'GameObject::dirX' : impossible d'accéder à private membre déclaré(e) dans la classe 'GameObject'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\gameobject.h(36): note: voir la déclaration de 'GameObject::dirX'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\gameobject.h(5): note: voir la déclaration de 'GameObject'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(459): error C2248: 'GameObject::w' : impossible d'accéder à private membre déclaré(e) dans la classe 'GameObject'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\gameobject.h(15): note: voir la déclaration de 'GameObject::w'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\gameobject.h(5): note: voir la déclaration de 'GameObject'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(459): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(464): error C2248: 'GameObject::y' : impossible d'accéder à private membre déclaré(e) dans la classe 'GameObject'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\gameobject.h(12): note: voir la déclaration de 'GameObject::y'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\gameobject.h(5): note: voir la déclaration de 'GameObject'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(465): error C2248: 'GameObject::y' : impossible d'accéder à private membre déclaré(e) dans la classe 'GameObject'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\gameobject.h(12): note: voir la déclaration de 'GameObject::y'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\gameobject.h(5): note: voir la déclaration de 'GameObject'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(473): error C2248: 'GameObject::dirX' : impossible d'accéder à private membre déclaré(e) dans la classe 'GameObject'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\gameobject.h(36): note: voir la déclaration de 'GameObject::dirX'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\gameobject.h(5): note: voir la déclaration de 'GameObject'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(477): error C2065: 'map' : identificateur non déclaré
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(477): error C2228: la partie gauche de '.tile' doit avoir un class/struct/union
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(477): note: le type est 'unknown-type'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(478): error C2065: 'map' : identificateur non déclaré
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(478): error C2228: la partie gauche de '.tile' doit avoir un class/struct/union
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(478): note: le type est 'unknown-type'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(481): error C2065: 'map' : identificateur non déclaré
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(481): error C2228: la partie gauche de '.tile' doit avoir un class/struct/union
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(481): note: le type est 'unknown-type'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(481): error C3861: 'getItem' : identificateur introuvable
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(484): error C2065: 'map' : identificateur non déclaré
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(484): error C2228: la partie gauche de '.tile' doit avoir un class/struct/union
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(484): note: le type est 'unknown-type'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(486): error C2065: 'map' : identificateur non déclaré
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(486): error C2228: la partie gauche de '.tile' doit avoir un class/struct/union
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(486): note: le type est 'unknown-type'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(487): error C2065: 'map' : identificateur non déclaré
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(487): error C2228: la partie gauche de '.tile' doit avoir un class/struct/union
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(487): note: le type est 'unknown-type'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(490): error C2065: 'map' : identificateur non déclaré
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(490): error C2228: la partie gauche de '.tile' doit avoir un class/struct/union
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(490): note: le type est 'unknown-type'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(490): error C3861: 'getItem' : identificateur introuvable
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(493): error C2065: 'map' : identificateur non déclaré
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(493): error C2228: la partie gauche de '.tile' doit avoir un class/struct/union
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(493): note: le type est 'unknown-type'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(498): error C2065: 'map' : identificateur non déclaré
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(498): error C2228: la partie gauche de '.tile' doit avoir un class/struct/union
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(498): note: le type est 'unknown-type'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(501): error C2248: 'GameObject::checkpointActif' : impossible d'accéder à private membre déclaré(e) dans la classe 'GameObject'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\gameobject.h(18): note: voir la déclaration de 'GameObject::checkpointActif'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\gameobject.h(5): note: voir la déclaration de 'GameObject'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(504): error C2248: 'GameObject::respawnX' : impossible d'accéder à private membre déclaré(e) dans la classe 'GameObject'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\gameobject.h(20): note: voir la déclaration de 'GameObject::respawnX'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\gameobject.h(5): note: voir la déclaration de 'GameObject'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(505): error C2248: 'GameObject::respawnY' : impossible d'accéder à private membre déclaré(e) dans la classe 'GameObject'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\gameobject.h(20): note: voir la déclaration de 'GameObject::respawnY'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\gameobject.h(5): note: voir la déclaration de 'GameObject'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(505): error C2248: 'GameObject::h' : impossible d'accéder à private membre déclaré(e) dans la classe 'GameObject'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\gameobject.h(15): note: voir la déclaration de 'GameObject::h'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\gameobject.h(5): note: voir la déclaration de 'GameObject'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(508): error C2065: 'map' : identificateur non déclaré
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(508): error C2228: la partie gauche de '.tile' doit avoir un class/struct/union
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(508): note: le type est 'unknown-type'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(510): error C2065: 'map' : identificateur non déclaré
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(510): error C2228: la partie gauche de '.tile' doit avoir un class/struct/union
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(510): note: le type est 'unknown-type'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(513): error C2248: 'GameObject::checkpointActif' : impossible d'accéder à private membre déclaré(e) dans la classe 'GameObject'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\gameobject.h(18): note: voir la déclaration de 'GameObject::checkpointActif'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\gameobject.h(5): note: voir la déclaration de 'GameObject'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(516): error C2248: 'GameObject::respawnX' : impossible d'accéder à private membre déclaré(e) dans la classe 'GameObject'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\gameobject.h(20): note: voir la déclaration de 'GameObject::respawnX'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\gameobject.h(5): note: voir la déclaration de 'GameObject'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(517): error C2248: 'GameObject::respawnY' : impossible d'accéder à private membre déclaré(e) dans la classe 'GameObject'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\gameobject.h(20): note: voir la déclaration de 'GameObject::respawnY'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\gameobject.h(5): note: voir la déclaration de 'GameObject'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(517): error C2248: 'GameObject::h' : impossible d'accéder à private membre déclaré(e) dans la classe 'GameObject'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\gameobject.h(15): note: voir la déclaration de 'GameObject::h'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\gameobject.h(5): note: voir la déclaration de 'GameObject'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(520): error C2065: 'map' : identificateur non déclaré
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(520): error C2228: la partie gauche de '.tile' doit avoir un class/struct/union
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(520): note: le type est 'unknown-type'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(525): error C2065: 'map' : identificateur non déclaré
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(525): error C2228: la partie gauche de '.tile' doit avoir un class/struct/union
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(525): note: le type est 'unknown-type'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(531): error C2248: 'GameObject::x' : impossible d'accéder à private membre déclaré(e) dans la classe 'GameObject'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\gameobject.h(12): note: voir la déclaration de 'GameObject::x'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\gameobject.h(5): note: voir la déclaration de 'GameObject'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(532): error C2248: 'GameObject::x' : impossible d'accéder à private membre déclaré(e) dans la classe 'GameObject'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\gameobject.h(12): note: voir la déclaration de 'GameObject::x'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\gameobject.h(5): note: voir la déclaration de 'GameObject'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(532): error C2248: 'GameObject::w' : impossible d'accéder à private membre déclaré(e) dans la classe 'GameObject'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\gameobject.h(15): note: voir la déclaration de 'GameObject::w'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\gameobject.h(5): note: voir la déclaration de 'GameObject'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(533): error C2248: 'GameObject::dirX' : impossible d'accéder à private membre déclaré(e) dans la classe 'GameObject'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\gameobject.h(36): note: voir la déclaration de 'GameObject::dirX'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\gameobject.h(5): note: voir la déclaration de 'GameObject'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(539): error C2248: 'GameObject::dirX' : impossible d'accéder à private membre déclaré(e) dans la classe 'GameObject'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\gameobject.h(36): note: voir la déclaration de 'GameObject::dirX'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\gameobject.h(5): note: voir la déclaration de 'GameObject'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(543): error C2065: 'map' : identificateur non déclaré
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(543): error C2228: la partie gauche de '.tile' doit avoir un class/struct/union
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(543): note: le type est 'unknown-type'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(544): error C2065: 'map' : identificateur non déclaré
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(544): error C2228: la partie gauche de '.tile' doit avoir un class/struct/union
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(544): note: le type est 'unknown-type'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(547): error C2065: 'map' : identificateur non déclaré
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(547): error C2228: la partie gauche de '.tile' doit avoir un class/struct/union
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(547): note: le type est 'unknown-type'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(547): error C3861: 'getItem' : identificateur introuvable
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(550): error C2065: 'map' : identificateur non déclaré
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(550): error C2228: la partie gauche de '.tile' doit avoir un class/struct/union
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(550): note: le type est 'unknown-type'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(552): error C2065: 'map' : identificateur non déclaré
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(552): error C2228: la partie gauche de '.tile' doit avoir un class/struct/union
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(552): note: le type est 'unknown-type'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(553): error C2065: 'map' : identificateur non déclaré
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(553): error C2228: la partie gauche de '.tile' doit avoir un class/struct/union
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(553): note: le type est 'unknown-type'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(556): error C2065: 'map' : identificateur non déclaré
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(556): error C2228: la partie gauche de '.tile' doit avoir un class/struct/union
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(556): note: le type est 'unknown-type'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(556): error C3861: 'getItem' : identificateur introuvable
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(559): error C2065: 'map' : identificateur non déclaré
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(559): error C2228: la partie gauche de '.tile' doit avoir un class/struct/union
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(559): note: le type est 'unknown-type'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(563): error C2065: 'map' : identificateur non déclaré
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(563): error C2228: la partie gauche de '.tile' doit avoir un class/struct/union
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(563): note: le type est 'unknown-type'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(566): error C2248: 'GameObject::checkpointActif' : impossible d'accéder à private membre déclaré(e) dans la classe 'GameObject'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\gameobject.h(18): note: voir la déclaration de 'GameObject::checkpointActif'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\gameobject.h(5): note: voir la déclaration de 'GameObject'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(569): error C2248: 'GameObject::respawnX' : impossible d'accéder à private membre déclaré(e) dans la classe 'GameObject'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\gameobject.h(20): note: voir la déclaration de 'GameObject::respawnX'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\gameobject.h(5): note: voir la déclaration de 'GameObject'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(570): error C2248: 'GameObject::respawnY' : impossible d'accéder à private membre déclaré(e) dans la classe 'GameObject'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\gameobject.h(20): note: voir la déclaration de 'GameObject::respawnY'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\gameobject.h(5): note: voir la déclaration de 'GameObject'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(570): error C2248: 'GameObject::h' : impossible d'accéder à private membre déclaré(e) dans la classe 'GameObject'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\gameobject.h(15): note: voir la déclaration de 'GameObject::h'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\gameobject.h(5): note: voir la déclaration de 'GameObject'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(573): error C2065: 'map' : identificateur non déclaré
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(573): error C2228: la partie gauche de '.tile' doit avoir un class/struct/union
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(573): note: le type est 'unknown-type'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(575): error C2065: 'map' : identificateur non déclaré
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(575): error C2228: la partie gauche de '.tile' doit avoir un class/struct/union
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(575): note: le type est 'unknown-type'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(578): error C2248: 'GameObject::checkpointActif' : impossible d'accéder à private membre déclaré(e) dans la classe 'GameObject'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\gameobject.h(18): note: voir la déclaration de 'GameObject::checkpointActif'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\gameobject.h(5): note: voir la déclaration de 'GameObject'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(581): error C2248: 'GameObject::respawnX' : impossible d'accéder à private membre déclaré(e) dans la classe 'GameObject'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\gameobject.h(20): note: voir la déclaration de 'GameObject::respawnX'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\gameobject.h(5): note: voir la déclaration de 'GameObject'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(582): error C2248: 'GameObject::respawnY' : impossible d'accéder à private membre déclaré(e) dans la classe 'GameObject'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\gameobject.h(20): note: voir la déclaration de 'GameObject::respawnY'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\gameobject.h(5): note: voir la déclaration de 'GameObject'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(582): error C2248: 'GameObject::h' : impossible d'accéder à private membre déclaré(e) dans la classe 'GameObject'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\gameobject.h(15): note: voir la déclaration de 'GameObject::h'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\gameobject.h(5): note: voir la déclaration de 'GameObject'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(585): error C2065: 'map' : identificateur non déclaré
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(585): error C2228: la partie gauche de '.tile' doit avoir un class/struct/union
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(585): note: le type est 'unknown-type'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(589): error C2065: 'map' : identificateur non déclaré
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.cpp(589): fatal error C1003: le nombre d'erreurs est supérieur à 100 ; arrêt de la compilation
+  input.cpp
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.h(74): error C2061: erreur de syntaxe : identificateur 'GameObject'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\menu.h(11): error C3646: 'hubObject' : spécificateur de substitution inconnu
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\menu.h(11): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\menu.h(30): error C2061: erreur de syntaxe : identificateur 'input'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\menu.h(31): error C2061: erreur de syntaxe : identificateur 'input'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\hub.h(18): error C3646: 'inputObject' : spécificateur de substitution inconnu
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\hub.h(18): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\hub.h(31): error C3646: 'getInput' : spécificateur de substitution inconnu
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\hub.h(31): error C2059: erreur de syntaxe : '('
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\hub.h(31): error C2238: jetons inattendus avant ';'
+  init.cpp
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.h(8): error C2504: 'init' : classe de base non définie
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.h(74): error C2061: erreur de syntaxe : identificateur 'GameObject'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\menu.h(11): error C3646: 'hubObject' : spécificateur de substitution inconnu
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\menu.h(11): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\hub.h(13): error C2504: 'init' : classe de base non définie
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\hub.h(19): error C3646: 'initObject' : spécificateur de substitution inconnu
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\hub.h(19): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\hub.h(32): error C3646: 'getInit' : spécificateur de substitution inconnu
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\hub.h(32): error C2059: erreur de syntaxe : '('
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\hub.h(32): error C2238: jetons inattendus avant ';'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\init.cpp(105): error C3861: 'openJoystick' : identificateur introuvable
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\init.cpp(113): error C3861: 'initMaps' : identificateur introuvable
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\init.cpp(116): error C3861: 'initMenus' : identificateur introuvable
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\init.cpp(121): error C3861: 'initPlayerSprites' : identificateur introuvable
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\init.cpp(124): error C3861: 'SetValeurDuNiveau' : identificateur introuvable
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\init.cpp(125): error C3861: 'changeLevel' : identificateur introuvable
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\init.cpp(128): error C3861: 'setNombreDeVies' : identificateur introuvable
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\init.cpp(129): error C3861: 'setNombreDetoiles' : identificateur introuvable
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\init.cpp(132): error C2662: 'void init::initHUD(void)' : impossible de convertir un pointeur 'this' de 'const init' en 'init &'
+  c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\init.cpp(132): note: La conversion perd les qualificateurs
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\init.cpp(136): error C3861: 'loadPlateforme' : identificateur introuvable
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\init.cpp(139): error C3861: 'loadSong' : identificateur introuvable
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\init.cpp(142): error C3861: 'loadSound' : identificateur introuvable
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\init.cpp(145): error C3861: 'setOnMenu' : identificateur introuvable
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\init.cpp(152): error C3861: 'cleanMaps' : identificateur introuvable
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\init.cpp(153): error C3861: 'cleanMenus' : identificateur introuvable
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\init.cpp(156): error C3861: 'cleanPlayer' : identificateur introuvable
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\init.cpp(164): error C3861: 'cleanPlateforme' : identificateur introuvable
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\init.cpp(167): error C3861: 'closeJoystick' : identificateur introuvable
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\init.cpp(170): error C3861: 'cleanUpMusic' : identificateur introuvable
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\init.cpp(173): error C3861: 'freeSound' : identificateur introuvable
+  Hub.cpp
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\map.h(74): error C2061: erreur de syntaxe : identificateur 'GameObject'
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\menu.h(11): error C3646: 'hubObject' : spécificateur de substitution inconnu
+c:\users\elsa\documents\ludus\algorithmie et prog\3e année\tp\rabidja_cpp_beckerelsa_bachelor\rabidja_cpp_beckerelsa_bachelor\menu.h(11): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  Génération de code en cours...
+  Compilation en cours...
+  GameObject.cpp
+  Génération de code en cours...
